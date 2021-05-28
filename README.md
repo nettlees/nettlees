@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to be cool**
 
-- 🤝 I’m looking for help with **nothing bro, I'm a god at coding, just booking I'm terrible.**
+- 🤝 I’m looking for help with **nothing bro, I'm a god at coding (not)**
 
 - 👨‍💻 All of my projects are available at [https://nettles.is-a.dev](https://nettles.is-a.dev)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nettles.dev@gmail.com**
 
-- 📄 Why not join my discord too, i need members lol [https://noice.link/cutify](https://noice.link/cutify)
+- 📄 Why not join my discord too, i need members lol [https://nettles.is-a.dev/discord](https://nettles.is-a.dev/discord)
 
 - ⚡ Fun fact **I am cool**
 
